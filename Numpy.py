@@ -1,5 +1,5 @@
 import numpy as np
-a = np. array([35, 1, 34, 36, 27, 48, 49])
+a = np. array([36, 3, 31, 38, 27, 68, 29])
 print(type(a))
 
 b = np. zeros(3)
